@@ -4,5 +4,6 @@ public class Batman {
         System.out.println("This city is needs a new breed of criminal");
 
         //Batman cool
+        //Batman fights
     }
 }
